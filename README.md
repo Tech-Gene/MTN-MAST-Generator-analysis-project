@@ -1,0 +1,3 @@
+This projects consist a breakdown and data analysis and prebentive maintenance instructions needed to ensure optimal performance of CNG gas generators deployed at MTN mast in Nigeria. it incluedes analysis of fluel consumption, root and cause analysis diagram of parts and faults that could affect the partial and overall performance of the generator leading to power outages on site.
+several categories of site and used in this analysis to get a random category of what could go wrong on several maintained sites. 
+Kindly not that data is strictly confidential and not intended for public use without prior contact and approval. 
